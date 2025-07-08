@@ -6,18 +6,18 @@ This repository demonstrates how to implement classic GoF design patterns with r
 
 ## Included Patterns
 ### Creational Patterns
-Singleton — Ensure a class has only one instance and provide a global access point.
-Factory Method — Create objects without specifying the exact class.
-Prototype — Clone existing objects instead of creating new ones from scratch.
-Builder — Construct complex objects step by step.
-Registry — Centralized place to store and retrieve shared objects.
+1. Singleton — Ensure a class has only one instance and provide a global access point.
+2. Factory Method — Create objects without specifying the exact class.
+3. Prototype — Clone existing objects instead of creating new ones from scratch.
+4. Builder — Construct complex objects step by step.
+5. Registry — Centralized place to store and retrieve shared objects.
 
 ### Structural Patterns
-Adapter — Allow incompatible interfaces to work together.
+6. Adapter — Allow incompatible interfaces to work together.
 
 ### Behavioral Patterns
-Observer — Define a one-to-many dependency so that when one object changes state, all its dependents are notified.
-Strategy — Define a family of algorithms, encapsulate each one, and make them interchangeable.
+7. Observer — Define a one-to-many dependency so that when one object changes state, all its dependents are notified.
+8. Strategy — Define a family of algorithms, encapsulate each one, and make them interchangeable.
 
 ## How to Use
 1. Clone this repo: git clone https://github.com/VKirananjali/Design-Patterns.git
